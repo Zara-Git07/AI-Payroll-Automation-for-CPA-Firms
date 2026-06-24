@@ -38,3 +38,5 @@ QuickBooks API Integration
 PDF Report Generation
 Databricks Processing Pipeline
 AI-Based Payroll Anomaly Detection
+<img width="1649" height="507" alt="image" src="https://github.com/user-attachments/assets/5feedb13-4abb-4bf4-a125-327e9ee9567d" />
+
