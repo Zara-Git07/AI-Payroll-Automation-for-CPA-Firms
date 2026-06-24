@@ -40,3 +40,4 @@ Databricks Processing Pipeline
 AI-Based Payroll Anomaly Detection
 <img width="1649" height="507" alt="image" src="https://github.com/user-attachments/assets/5feedb13-4abb-4bf4-a125-327e9ee9567d" />
 
+<img width="1814" height="898" alt="image" src="https://github.com/user-attachments/assets/a4e9b037-f76e-4c30-8193-efb31c490d00" />
